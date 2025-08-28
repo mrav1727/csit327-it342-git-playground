@@ -3,3 +3,4 @@
 - Revilleza, Frederick (**@blissfuljuan**)
 - Revilleza, Frederick (**@juantojuan**)
 - Veloso, Miguel Ray (**@mrav1727**)
+- Revilleza, Frederick (**@juantojuan**)
