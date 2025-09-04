@@ -1,9 +1,21 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
-<<<<<<< HEAD
-- Veloso, Miguel Ray (**@mrav1727**)
-=======
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**
->>>>>>> 2ae76620c05ca9cd9ab2be4153953d7c2035fce9
+- Sumucad, Joseph Kyle (**@kylehatescodes**)
+- Abadiano, Kent Dominic (**@KapitanKent**)
+- Ygot, Dante (**@Dantogy**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
+- Casas, Kursten Dane (**@kurstdane**)
+- Carao, Estelle Felicity (**@teruteriri**)
+- Abella, Franchesca Louise (**@ChescaAbella**)
+- Go, Felix Christian (**@Lumity-13**)
+- Lo, Joshua Noel (**juswangs12**)
+- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Tabungar, Steven Jan (**@Smuffinn**)
+- verano, joel (**@VeranoJoel**)
+- Veloso, Miguel Ray (**@mrav1727**)
